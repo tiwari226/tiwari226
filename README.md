@@ -16,7 +16,7 @@
 ### 🛠️ My Tech Stack
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -34,8 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 
-###
-
+### Competitive Programming Profiles 
 <div align="left">
   <a href="https://codeforces.com/profile/__CLASSICAL">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
@@ -49,19 +48,23 @@
   <a href="https://atcoder.jp/users/classi">
     <img src="https://img.shields.io/static/v1?message=AtCoder&label=&color=283C5C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="atcoder logo" />
   </a>
+  
+  ## Social Network 
   <a href="https://linkedin.com/in/om-tiwari-b3020a263">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://youtube.com/@your_channel">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
+    
+  ###  Contact me : 
   <a href="mailto:tom329636@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
 
 ###
-⏰ **My Local Time**  
+⏰ **Local Time**  
 ![Time](https://img.shields.io/badge/dynamic/json?label=Current%20Time&query=%24.datetime&url=https://worldtimeapi.org/api/ip)
 
 
