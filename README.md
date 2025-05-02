@@ -8,11 +8,12 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
-## 🛠️ My Tech Stack
+
+
+### 🛠️ My Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
